@@ -126,7 +126,7 @@ def extract_otps(text: str):
         return [match.group(1)]
     
     # Sabon ƙari don kama tsari kamar 546-437 ko 564 786
-    match_with_separator = re.search(r"\b\d{3}\s*[-\s]\s*\d{3}\b", text)
+    match_with_separator = re.search(r"\b\d{3}\s*[- ]\s*\d{3}\b", text)
     if match_with_separator:
         # A Tura shi kamar yadda Yake
         return [match_with_separator.group(0)]
