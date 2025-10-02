@@ -3,18 +3,18 @@
 # --- Edit these values before running ---
 
 # Telegram Bot settings
-BOT_TOKEN = "Your Bot Token"
-ADMIN_ID = Your admin id
-GROUP_ID = -Your Group id
-OWNER_LINK = "Https://t.me/LootFiHunter"
+BOT_TOKEN = "8049180347:AAG7EARNkRrPp-jBfNVveWtEjDmUaH8eZbU"
+ADMIN_ID = 5344335558
+GROUP_ID = -4921747439
+OWNER_LINK = "Https://t.me/protcp"
 
 
 # ==========================================================
 # IVASMS Login Credentials
 # ==========================================================
 LOGIN_URL = "https://www.ivasms.com/login"
-LOGIN_EMAIL = "Your login email"
-LOGIN_PASSWORD = "Your login pass"
+LOGIN_EMAIL = "xandera811@gmail.com"
+LOGIN_PASSWORD = "kulkas123"
 
 # IVASMS endpoints
 BASE = "https://www.ivasms.com"
