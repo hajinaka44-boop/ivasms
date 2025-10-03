@@ -3,7 +3,7 @@
 # --- Edit these values before running ---
 
 # Telegram Bot settings
-BOT_TOKEN = "8049180347:AAG7EARNkRrPp-jBfNVveWtEjDmUaH8eZbU"
+BOT_TOKEN = "8049180347:AAE2bpS_UOquv0n25YEFXDb4e7o_-0EVGgg"
 ADMIN_ID = 5344335558
 GROUP_ID = -4921747439
 OWNER_LINK = "Https://t.me/protcp"
